@@ -31,11 +31,12 @@ export default {
 </script>
 
 <style>
-/* css rules here (with the style tages not scoped) will permeate throughout the app and can help with organization */
 #app {
   /* write the rules here that will style the background image pleasantly */
   /* EXAMPLES: */
   min-height: 100vh;
   height: fit-content;
 }
+/* css rules here (with the style tages not scoped) will permeate throughout the app and can help with organization */
+
 </style>

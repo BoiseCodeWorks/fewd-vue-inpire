@@ -10,14 +10,14 @@ Vue.use(Vuex)
   //weather endpoint --> /weather
 const _api = Axios.create({
 	baseURL: '//bcw-sandbox.herokuapp.com/api/',
-	timeout: 3000
+	timeout: 5000
 });
 
 //utilize this _todoApi for all of your todo related HTTP requests
 // Don't forget to change "YOURNAME" with your actual name
 const _todoApi = Axios.create({
   baseURL: '//bcw-sandbox.herokuapp.com/api/YOURNAME/todos',
-  timeout: 3000
+  timeout: 5000
 })
 
 export default new Vuex.Store({

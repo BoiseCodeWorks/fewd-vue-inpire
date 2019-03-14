@@ -6,7 +6,7 @@
 </template>
 
 <script>
-//this imports some code within this file that can know be used within the file
+//this imports some code that can now be used within this file
 import Quote from '@/components/Quote.vue'
 //what else do you want to import?
 

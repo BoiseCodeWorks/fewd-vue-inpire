@@ -1,6 +1,6 @@
 ## Inspire
 
-Inspiration can be difficult to achieve. Keep track of your many important tasks and the weather with the subtle help of a random daily quote and beatiful scenery.
+Inspiration can be difficult to achieve. Keep track of your many important tasks and the weather with the subtle help of a random daily quote and beautiful scenery.
 
 ### The Setup
 
@@ -8,7 +8,7 @@ Inspiration can be difficult to achieve. Keep track of your many important tasks
 ##### Front-End
 For this project you'll utilize the Front End Framework, Vue, to build a stylish dashboard that can help with both motivation and organization.
 
-You'll notice that the Vue project has been created for you and that the out-of-the-box template that Vue provides has been stripped away.  We've also provided the appropiate file structure for your application and have scattered notes to help you on your way toward completeing this checkpoint. Remember that we are using the vue-router for our client side routing and you will need to complete the route object within the router.js as well as wire up controlls within both the Dashboard.vue and the Todos.vue. Don't forget the unidirectional flow of data that vuex provides, and how each step in the process is important if the under-the-hood features of Vuex are going to operate appropriately.
+You'll notice that the Vue project has been created for you and that the out-of-the-box template that Vue provides has been stripped away. We've also provided the appropriate file structure for your application and have scattered notes to help you on your way toward completeing this checkpoint. Remember that we are using the vue-router for our client side routing and you will need to complete the route object within the router.js as well as wire up controls within both the Dashboard.vue and the Todos.vue. Don't forget the unidirectional flow of data that vuex provides, and how each step in the process is important if the under-the-hood features of Vuex are going to operate appropriately.
 
 Your goal will be to put all of the data gathered from the actions together in a visually pleasing format as well as ensuring the functionality of a todo list.
 
@@ -126,6 +126,7 @@ The positioning of elements on the page is not the absolute most crucial thing f
     - Todo's can be marked complete (PUT)
     - The todolist shows the total count of tasks currently being tracked
     - The todolist takes advantage of Vuex to provide persistent data
+    - Utilize the vue-router to have at least two different paths/views in your application
 
 ### Finished?
 When You are finished please submit the link to the project in the backpack

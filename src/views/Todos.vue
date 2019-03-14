@@ -1,7 +1,7 @@
 <template>
     <div class="todos container-fluid">
         <!-- your todo form could go here -->
-        <!-- could utilize a v-for and don't forget to pass a prop -->
+        <!-- could utilize a v-for on a component and don't forget to pass a prop -->
     </div>
 </template>
 
